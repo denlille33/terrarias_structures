@@ -1,5 +1,5 @@
 {
-  "name": "terrarias_structures:oak_cabin_one/start_pool",
+  "name": "terrarias_structures:ruined_house/start_pool",
   "fallback": "minecraft:empty",
 
   "elements": [
@@ -8,7 +8,7 @@
       "weight": 6,
       "element": {
 
-        "location": "terrarias_structures:oak_cabin_one",
+        "location": "terrarias_structures:ruined_house",
 
         "processors": "minecraft:empty",
 
